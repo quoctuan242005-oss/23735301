@@ -15,7 +15,7 @@ theo yêu cầu bài thực hành TH1.
 | MSSV | 23735301 |
 | GitHub | https://github.com/<quoctuan242005-oss>/23735301 |
 | URL clone HTTPS | https://github.com/<quoctuan242005-oss>/23735301.git |
-| Stamp | #<STAMP> |
+| Stamp | #<972910> |
 
 ---
 
