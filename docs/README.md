@@ -1,4 +1,4 @@
-# <PHAM QUOC TUAN> | 23735301 | https://github.com/<GITHUB_USERNAME>/23735301.git | #<STAMP>
+# <PHAM QUOC TUAN> | 23735301 | https://github.com/<quoctuan242005-oss>/23735301.git | #972910
 
 # CampusMart - 23735301
 
@@ -11,10 +11,10 @@ theo yêu cầu bài thực hành TH1.
 
 | Thông tin | Nội dung |
 |---|---|
-| Họ tên | <HO TEN> |
+| Họ tên | Phạm Quốc Tuấn|
 | MSSV | 23735301 |
-| GitHub | https://github.com/<GITHUB_USERNAME>/23735301 |
-| URL clone HTTPS | https://github.com/<GITHUB_USERNAME>/23735301.git |
+| GitHub | https://github.com/<quoctuan242005-oss>/23735301 |
+| URL clone HTTPS | https://github.com/<quoctuan242005-oss>/23735301.git |
 | Stamp | #<STAMP> |
 
 ---
